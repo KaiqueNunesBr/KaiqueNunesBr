@@ -1,16 +1,34 @@
-### Hi there 👋
+# Olá, eu sou [Seu Nome]! 👋
 
-<!--
-**KaiqueNunesBr/KaiqueNunesBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bacharel em Ciência da Computação apaixonado por Desenvolvimento Web e Programação.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Atualmente estudando na Universidade Estadual do Sudoeste da Bahia.
+- 💻 Desenvolvedor Web.
+- 🌱 Sempre em busca de aprendizado e crescimento profissional.
+- 📫 Como entrar em contato: [E-mail](mailto:kaique49nunes@gmail.com)
+
+## Habilidades
+
+- **Linguagens de Programação:** [Liste as linguagens que você domina]
+- **Tecnologias:** [Liste as tecnologias com as quais você está familiarizado]
+- **Ferramentas e Frameworks:** [Liste as ferramentas e frameworks que você utiliza]
+
+
+## Certificações e Cursos
+
+- [Nome da Certificação 1] - Instituição/Certificadora.
+- [Nome do Curso 1] - Plataforma/Instituição.
+
+## Idiomas
+
+- 🇧🇷 Português (nativo)
+- 🇬🇧 Inglês (básico)
+
+## Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/kaique-nunes-02311a2a3/)
+- [GitHub](https://github.com/KaiqueNunesBr)
+
+Espero que goste! Sinta-se à vontade para personalizar conforme suas preferências.
